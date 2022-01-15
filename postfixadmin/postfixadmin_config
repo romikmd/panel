@@ -1,0 +1,11 @@
+<?php
+    $CONF['setup_password'] = 'passhash';
+    $CONF['default_language'] = 'ru';
+    $CONF['database_type'] = 'mysqli';
+    $CONF['database_host'] = 'localhost';
+    $CONF['database_user'] = 'postfix';
+    $CONF['database_password'] = 'changeme';
+    $CONF['database_name'] = 'postfix';
+    $CONF['encrypt'] = 'md5';
+    $CONF['configured'] = true;
+?>
